@@ -19,12 +19,6 @@
 
 ---
 
-
-Algumas melhorias ainda podem ser feitas, como validação da URL a ser encurtada, um método para evitar colisões (2 URLs gerando o mesmo código), Exceptions mais específicas, um GlobalExceptionHandler mais robusto, etc. 
-
-Foi um projeto bem simples e prático, apenas para mostrar reforçar o conhecimento e aprender um sistema novo.
-
-
 No mais, é isso <3
 
     -Maven
